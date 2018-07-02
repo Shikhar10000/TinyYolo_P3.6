@@ -11,6 +11,8 @@ Tiny Yolo Detection System For Python 3.6
   Tensroflow
 
   OpenCV
+  
+  Matplotlib
 
 
 ## Steps to use this code:
